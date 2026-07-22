@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Images/logo.png" alt="MOUNDMIMIC" width="600">
+<img src="Images/logo.png" alt="MOUNDMIMIC" width="320">
 
 **Your voice becomes the bait.**
 
